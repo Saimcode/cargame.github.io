@@ -23,7 +23,11 @@ Contact me on the links below:
 
 ## 🕔 Version History
 
-* Version 1.0 (Current)
+* Version 1.1 (Current)
+    * Bug Fixes
+    * New Level Available (Level 3) with new car and map
+    * Added a new Game Guide Screen
+* Version 1.0
     * Initial Release
 
 ## 🛠 Built With
